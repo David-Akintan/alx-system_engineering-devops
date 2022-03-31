@@ -1,2 +1,2 @@
-#!/bin/bash     pwd
-That is the command to print out the absolute working path
+#!/bin/bash
+pwd
