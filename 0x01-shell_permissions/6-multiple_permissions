@@ -1,2 +1,2 @@
-#!/bin/bash
-554
+#!bin/bash
+chmod 554 hello
